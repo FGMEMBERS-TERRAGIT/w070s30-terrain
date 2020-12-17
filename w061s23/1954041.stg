@@ -1,0 +1,4 @@
+OBJECT_BASE 1954041.btg
+OBJECT SGME.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -60.621317 -22.031640 166.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -60.618073 -22.041029 165.1 0.00
